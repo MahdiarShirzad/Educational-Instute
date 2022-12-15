@@ -1,0 +1,28 @@
+.CourseDetails{
+    margin-top: 50px;
+}
+.DetailCard{
+    text-align: right;
+    border: none;
+    box-shadow: 2px 3px 5px 5px rgb(235, 232, 232);
+}
+.InfoCard{
+    text-align: right;
+    border: none;
+    box-shadow: 2px 3px 5px 5px rgb(235, 232, 232);
+}
+.questionBtn{
+    background-color:#E1F7ED ;
+    color: #323E73;
+    height: 60px;
+    margin-top: 80px;
+}
+
+.share button{
+    box-shadow: 1px 1px 1px 1px rgb(235, 232, 232);
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-left: 20px;
+}

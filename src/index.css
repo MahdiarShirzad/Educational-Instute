@@ -1,0 +1,13 @@
+@font-face {
+    font-family: IRANSans;
+    src: url('./assests/fonts/IRANSans.ttf');
+  }
+  
+  * {
+    font-family: IRANSans;
+  }
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  

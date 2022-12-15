@@ -1,0 +1,31 @@
+.Footer{
+    height: 400px;
+    background-color: #3C6E71;
+    margin-top: 150px;
+}
+.Footertitle{
+    text-decoration: underline;
+    font-size: 20px;
+    color: #61CE70;
+    font-weight: 700;
+}
+.Footermark{
+    margin-top: 40px;
+}
+.Footermark div{
+    float: right;
+}
+.frame{
+    width: 70px;
+    height: 70px;
+    background-color: #FFFFFF;
+    margin-left: 40px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.frame img{
+    width: 80%;
+    height: 80%;
+    margin-top: 6px;
+    margin-right: 6px;
+}

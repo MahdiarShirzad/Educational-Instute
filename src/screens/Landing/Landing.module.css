@@ -1,0 +1,131 @@
+.SearchContainer{
+    background: url('../../assests/images/Landing/SearchBg.png');
+    height: 390px;
+    color: #323E73;
+    border-radius: 7px;
+    text-align: center !important;
+    direction: rtl !important;
+}
+.SearchBoxTitle{
+    font-weight: 500;
+    text-align: right !important;
+    direction: rtl;
+    display: inline-block;
+}
+.SearchContainer ::placeholder{
+    color: #23A455;
+    font-size: 11px;
+}
+.SearchContainer form input{
+    direction: rtl;
+}
+.SearchContainer form{
+    direction: rtl;
+    width: 100%;
+}
+.SearchBtn{
+    border: none;
+    position: absolute;
+    left: -25px;
+}
+.SearchBtn:hover{
+    background: transparent;
+}
+.SearchInput{
+    position: relative;
+    width: 100%;
+    border-radius: 5px;
+}
+.AcInfo img{
+    width: 40%;
+    height: 40%;
+    margin: 0 auto !important;
+}
+.AcInfo span{
+    font-size: 11px;
+    text-align: center;
+    margin-top: 15px !important;
+    display: inline-block;
+    font-weight: 100 !important;
+}
+ .InfoItems {
+    float: left;
+} 
+.LanguageContainer{
+    background-color: #F2FCF8;
+    height: 140px;
+    border-radius: 7px;
+}
+.LanguageItems{
+    width: 100px ;
+    height: 100px;
+    background-color: #fff;
+    border-radius: 7px;
+    margin-top: 20px;
+    margin-left: 24px;
+}
+.LanguageItems img{
+    margin: 20px 17px ;
+}
+.ArticleCard{
+    width: 350px;
+    height: 380px;
+    margin-left: 23px;
+    border: none;
+    box-shadow: 2px 3px 5px 5px rgb(235, 232, 232);
+}
+.ImgBg{
+    background-color: #E1F7ED;
+}
+.ArticleTitle{
+    font-size: 13px;
+    color: #198643;
+}
+.ArticleInfo{
+    color: #000;
+    font-size: 15px;
+    font-weight: lighter !important;
+    margin-top: 15px;
+}
+.ArticleCard:hover{
+    text-decoration: none !important;
+    cursor: pointer;
+}
+.CardBody div{
+    float: left;
+}
+.ArticleBtn{
+    background-color: #E1F7ED;
+}
+.ArticleContainer a,
+.ArticleContainer a:hover{
+    text-decoration: none;  
+}
+.SliderBox{
+    height: 300px;
+    background-color: #F3FCF8;
+    margin-top: 80px;
+}
+.Slider{
+    margin-top: 30px;
+}
+.SliderTopic{
+    font-size: 18px;
+    margin-top: 60px;
+    font-weight: lighter !important;
+}
+.SliderBox button{
+    margin: -19px !important;
+}
+.TeachersName{
+    font-size: 12px;
+    margin-top: -5px;
+}
+.imgFrame{
+    text-align: left !important;
+}
+.scroll{
+    position: fixed;
+    top: 0;
+    z-index: 200;
+}

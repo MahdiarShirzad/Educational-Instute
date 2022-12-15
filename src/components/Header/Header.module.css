@@ -1,0 +1,22 @@
+.HeaderContainer{
+    background-color: #F3FCF8;
+    border-radius: 7px;
+    direction: rtl !important;
+}
+
+span a{
+    color: #323E73;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+span a:hover{
+    color: #000;
+    text-decoration: none;   
+    border-bottom:2px solid #000;
+}
+.cart :hover,
+.panel :hover{
+    border: none;
+}
